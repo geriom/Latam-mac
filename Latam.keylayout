@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="0" id="5006" name="Latin American - B" maxout="1">
+<keyboard group="0" id="5006" name="Latin American" maxout="1">
    <layouts>
       <layout first="0" last="0" modifiers="48" mapSet="312"/>
    </layouts>
