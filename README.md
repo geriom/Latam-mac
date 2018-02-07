@@ -54,7 +54,7 @@ siguientes pasos:
      recuadro de la derecha aparece **Latam Linux**, seleccionalo y da click en
      **Add**.
 
-A partir de este momento esa opción estará¡ disponible para seleccionarla en la
+A partir de este momento esa opción estará disponible para seleccionarla en la
 barra de tareas o usando el atajo de teclado `control + Space`.
    
    
