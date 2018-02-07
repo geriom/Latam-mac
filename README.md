@@ -1,33 +1,33 @@
 # Teclado latinoamericano (Linux Latam) para Mac
 
-Este repositorio contiene un archivo de configuraci√≥n y un√≠cono para
-configurar un teclado en Mac con la distribuci√≥n latinoamericana tal como
+Este repositorio contiene un archivo de configuraciÛn y un≠Ìcono para
+configurar un teclado en Mac con la distribuciÛn latinoamericana tal como
 funciona en Linux.
 
-La principal raz√n para esto es que, a pesar de que hay varias alternativas,
-ninguna contiene completamente el conjunto de carcteres especiales que aparecen
-al combinar `AltGr + <key>` en Linux, o `option + <key>` en Mac. En linux es
-com√n usar caracteres como:
+La principal razÛn para esto es que, a pesar de que hay varias alternativas,
+ninguna contiene completamente el conjunto de caracteres especiales que aparecen
+al combinar `AltGr + <key>` en Linux, o `option + <key>` en Mac. En Linux es
+com˙n usar caracteres como:
 
 * `>` que se imprime con `AltGr + Shift + x`
 * `<` que se imprime con `AltGr + Shift + z`
 * `~` que se imprime con `AltGr + 4`
 
 Para redireccionar la salida de un programa, representar la carpeta personal, o
-dentro de vim para identar un bloque de texto. 
+dentro de vim para indentar un bloque de texto. 
 
-## Instalaci√n
+## InstalaciÛn
 
-Para instalar esta distribuci√n de teclado desde la terminal de Mac sigue los
+Para instalar esta distribuciÛn de teclado desde la terminal de Mac sigue los
 siguientes pasos:
 
-1. Clona el repositorio con la siguiente instrucci√≥n:
+1. Clona el repositorio con la siguiente instrucciÛn:
 
    ```
    git clone https://github.com/geriom/Latam-mac.git 
    ```
 
-1. Cabiar directorio a la carpeta que se acaba de crear:
+1. Cambiar directorio a la carpeta que se acaba de crear:
 
    ```
    cd Latam-mac
@@ -41,9 +41,9 @@ siguientes pasos:
 
 1. Reinicia tu computadora.
 
-1. Anade el teclado a la lista de distribuciones disponible.
+1. AÒade el teclado a la lista de distribuciones disponible.
 
-   * En la esquina superior dererecha da click en el icono de la distribucion
+   * En la esquina superior derecha da click en el icono de la distribuciÛn
      de teclado que esta en uso. Luego da click en **Open Keyboard
      Preferences**. 
 
@@ -54,14 +54,15 @@ siguientes pasos:
      recuadro de la derecha aparece **Latam Linux**, seleccionalo y da click en
      **Add**.
 
-A partir de este momento esa opci√n estar√° disponible para seleccionarla en la
+A partir de este momento esa opciÛn estar·° disponible para seleccionarla en la
 barra de tareas o usando el atajo de teclado `control + Space`.
    
    
 ## Referencias adicionales
 
-Este archivo de teclado est√ basado en [este]( https://github.com/neosergio/Latam-Keyboard). El √cono es el mismo.
+Este archivo de teclado est· basado en [este](
+https://github.com/neosergio/Latam-Keyboard). El Ìcono es el mismo.
 
-Para m√s informaci√n sobre la creaci√n de distribuciones de teclado para Mac
+Para m·s informaciÛn sobre la creaciÛn de distribuciones de teclado para Mac
 consulta [este
 enlace](https://developer.apple.com/library/content/technotes/tn2056/_index.html#//apple_ref/doc/uid/DTS10003085-CH1-SUBSECTION13B).
