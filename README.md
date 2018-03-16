@@ -1,20 +1,19 @@
 # Teclado latinoamericano (Linux Latam) para Mac
 
-Este repositorio contiene un archivo de configuración y un­ícono para
+Este repositorio contiene un archivo de configuración y un ícono para
 configurar un teclado en Mac con la distribución latinoamericana tal como
 funciona en Linux.
 
 La principal razón para esto es que, a pesar de que hay varias alternativas,
-ninguna contiene completamente el conjunto de caracteres especiales que aparecen
-al combinar `AltGr + <key>` en Linux, o `option + <key>` en Mac. En Linux es
-común usar caracteres como:
+ninguna contiene completamente el conjunto de caracteres especiales. Estos
+caracteres aparecen al combinar `AltGr + <key>` y `AltGr + Shift + <key>` en
+Linux, o `option + <key>` y `option + shift + <key>`en Mac. 
+
+Algunos ejemplos son:
 
 * `>` que se imprime con `AltGr + Shift + x`
 * `<` que se imprime con `AltGr + Shift + z`
 * `~` que se imprime con `AltGr + 4`
-
-Para redireccionar la salida de un programa, representar la carpeta personal, o
-dentro de vim para indentar un bloque de texto. 
 
 ## Instalación
 
@@ -27,7 +26,7 @@ siguientes pasos:
    git clone https://github.com/geriom/Latam-mac.git 
    ```
 
-1. Cambiar directorio a la carpeta que se acaba de crear:
+1. Cambia directorio a la carpeta que se acaba de crear:
 
    ```
    cd Latam-mac
@@ -55,8 +54,22 @@ siguientes pasos:
      **Add**.
 
 A partir de este momento esa opción estará disponible para seleccionarla en la
-barra de tareas o usando el atajo de teclado `control + Space`.
+barra de tareas, o usando el atajo de teclado `control + Space` para cambiar
+entre diferentes distribuciones de teclado.
+
+## Distribuciones
+
+Los siguientes screenshots muestran los caracteres disponibles con cada
+combinación de teclas:
+
+* Distribución normal:
+![Latam Keyboard 1](img/keyboard1.png?raw=true "Latinamertican Keyboard")
+
+* Tecla `option`
+![Latam Keyboard 2](img/keyboard2.png?raw=true "Latinamerican Keyboard")
    
+* Teclas `option + shift`
+![Latam Keyboard 3](img/keyboard3.png?raw=true "Latinamerican Keyboard")
    
 ## Referencias adicionales
 
